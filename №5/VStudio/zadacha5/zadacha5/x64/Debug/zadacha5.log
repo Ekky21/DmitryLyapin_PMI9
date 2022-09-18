@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\bliez\source\repos\zadacha5\zadacha5\Source.cpp(5,19): warning C4305: инициализация: усечение из "double" в "float"
+  zadacha5.vcxproj -> C:\Users\bliez\source\repos\zadacha5\x64\Debug\zadacha5.exe
