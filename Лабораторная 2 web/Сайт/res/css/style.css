@@ -1,0 +1,315 @@
+body { 
+	background: #3C3A89;
+}
+.logo {
+	width:80px;
+	height:80px;
+	position:absolute;
+	top:5px;
+	left:25%;
+}
+.iknt {
+	font-family:Andale Mono;
+	margin-left:540px;
+	padding: 15px;
+	
+}
+a {
+	color:white;
+	font-family:Inter;
+}
+h1 {
+	color:white;
+	font-family:Andale Mono;
+}
+h2 {
+	color:white;
+	font-family:Andale Mono;
+}
+p {
+	color:white;
+}
+.t1 {
+	font-family: Inter;
+	margin-left:700px;
+	margin-top:-60px;
+}
+.t2 {
+	font-family: Inter;
+	margin-left:825px;
+	margin-top:-34.5px;
+}
+.t3 {
+	font-family: Inter;
+	margin-left:950px;
+	margin-top:-34.5px;
+}
+.t4 {
+	font-family: Inter;
+	margin-left:1090px;
+	margin-top:-34.5px;
+}
+.news{
+	margin-left:350px;
+	padding: 70px;
+}
+.newsphoto{
+	margin-left: 420px;
+    margin-top: -85px;
+    height: 360px;
+    width: 500px;
+}
+.text_under_newsphoto{
+	margin-left: 420px;
+    margin-top: -5px;
+	font-size:18px;
+}
+.first_{
+	font-size: 20px;
+    font-weight: 1000;
+	margin-left: 980px;
+    margin-top: -390px;
+}
+.first_p1{
+	font-size: 14px;
+	margin-left: 1000px;
+    margin-top: -1px;
+}
+.second_{
+	font-size: 20px;
+    font-weight: 1000;
+	margin-left: 980px;
+    margin-top: 10px;
+}
+.second_p1{
+	font-size: 14px;
+	margin-left: 1000px;
+    margin-top: -1px;
+}
+.third_{
+	font-size:20px;
+	font-weight:1000;
+	margin-left:980px;
+	margin-top:20px;
+}
+.third_p1{
+	font-size:14px;
+	margin-left:1000px;
+	margin-top:-5px;
+}
+.teachers{
+	margin-left:420px;
+	margin-top:10px;
+}
+.photo_left{
+	height:250px;
+	margin-left:450px;
+	margin-top:100px;
+}
+.under_pl{
+	font-size:18px;
+	margin-left:420px;
+	margin-top:-15px;	
+	font-family:Andale Mono;
+}	
+.under1_pl{
+	font-size:18px;
+	margin-left:410px;
+	margin-top:-12px;	
+	font-family:Andale Mono;
+}	
+.photo_centr{
+	height:320px;
+	margin-left:800px;
+	margin-top:-350px;
+}
+.under_pc{
+	font-size:18px;
+	margin-left:815px;
+	margin-top:-42px;	
+	font-family:Andale Mono;
+}	
+.under2_pc{
+	font-size:18px;
+	margin-left:830px;
+	margin-top:-15px;	
+	font-family:Andale Mono;
+}
+.photo_right{
+	height:250px;
+	margin-left:1200px;
+	margin-top:-350px;
+}
+.under_pr{
+	font-size:18px;
+	margin-left:1200px;
+	margin-top:-110px;	
+	font-family:Andale Mono;
+}	
+.under3_pr{
+	font-size:18px;
+	margin-left:1220px;
+	margin-top:-15px;	
+	font-family:Andale Mono;
+}
+.lineOne{
+	margin-left:420px;
+	margin-top:70px;	
+}
+.lineTwo{
+	margin-left:420px;
+	margin-top:50px;	
+}
+.lineThree{
+	margin-left:420px;
+	margin-top:50px;	
+}
+.about_usH2{
+	margin-left:420px;
+	margin-top:20px;
+}
+.about_usP{
+	margin-left:425px;
+	margin-top:10px;
+	font-size:16px;
+	font-family: Inter;
+}
+.about_usPhoto{
+	height:225px;
+	margin-left:1000px;
+	margin-top:-225px;
+}
+.vklogo_1{
+	height:75px;
+	margin-left:1000px;
+	margin-top:10px;
+}
+.underVkLogo_1{
+	margin-left:1090px;
+	margin-top: -85px;
+	font-size:20px;
+}
+.minobr_RF{
+	height:50px;
+	margin-left:500px;
+	margin-top:15px;
+}
+.minobr_RF_t{
+	font-size:10px;
+	margin-top:-55px;
+	margin-left:555px;
+	font-family:Inter;
+}
+.minobr_Perm{
+	height:50px;
+	margin-left:680px;
+	margin-top:-65px;
+}
+.minobr_Perm_t{
+	font-size:10px;
+	margin-top:-65px;
+	margin-left:715px;
+	font-family:Inter;
+}
+.deport_Perm{
+	height:50px;
+	margin-left:850px;
+	margin-top:-65px;
+}
+.deport_Perm_t{
+	font-size:10px;
+	margin-top:-70px;
+	margin-left:890px;
+	font-family:Inter;
+}
+.portfolio{
+	height:50px;
+	margin-left:1000px;
+	margin-top:-60px;
+}
+.portfolio_t{
+	font-size:10px;
+	margin-top:-60px;
+	margin-left:1052px;
+	font-family:Inter;
+}
+.gosuslugi{
+	height:50px;
+	margin-left:1150px;
+	margin-top:-55px;
+}
+.gosuslugi_t{
+	font-size:10px;
+	margin-top:-55px;
+	margin-left:1210px;
+	font-style:Inter;
+}
+h3{
+	color:white;
+	font-family:Andale Mono;
+	font-size:18px;
+}
+.leftdownphoto{
+	height:375px;
+	margin-left:500px;
+	margin-top:75px;
+}
+.kontakt{
+	color:white;
+	font-family:inter;
+	font-size:20px;
+	margin-left:1050px;
+	margin-top:-380px;
+}
+.badges{
+	height:200px;
+	margin-left:1040px;
+	margin-top:-10px;
+}
+.h3_1{
+	margin-left:1085px;
+	margin-top:-202.5px;
+}
+.p_1{
+	margin-left:1085px;
+	margin-top:10px;
+}
+.p_2{
+	margin-left:1085px;
+	margin-top:30px;
+}
+.h3_2{
+	margin-left:1085px;
+	margin-top:20px;
+}
+.soc{
+	color:white;
+	font-family:inter;
+	font-size:20px;
+	margin-left:1050px;
+	margin-top:20px;
+}
+.socseti{
+	color:white;
+	font-family:inter;
+	font-size:20px;
+	margin-left:1050px;
+	margin-top:30px;
+}
+
+.vklogo_2{
+	height:30px;
+	margin-left:1050px;
+	margin-top:-10px;
+}
+.tglogo_1{
+	height:30px;
+	margin-left:1110px;
+	margin-top:-45px;
+}
+.youtubelogo_1{
+	height:55px;
+	margin-left:1150px;
+	margin-top:-74px;
+}
+	
