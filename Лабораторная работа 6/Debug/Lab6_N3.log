@@ -1,0 +1,9 @@
+﻿  Lab6_№3.cpp
+C:\Users\mechmat\source\repos\Lab6_N3\Lab6_№3.cpp(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Module.cpp
+C:\Users\mechmat\source\repos\Lab6_N3\Module.cpp(8,10): error C2296: %=: недопустимо, левый операнд имеет тип "float"
+C:\Users\mechmat\source\repos\Lab6_N3\Module.cpp(8,10): error C2297: %=: недопустимо, правый оператор имеет тип "float"
+C:\Users\mechmat\source\repos\Lab6_N3\Module.cpp(12,10): error C2296: %=: недопустимо, левый операнд имеет тип "float"
+C:\Users\mechmat\source\repos\Lab6_N3\Module.cpp(12,10): error C2297: %=: недопустимо, правый оператор имеет тип "float"
+C:\Users\mechmat\source\repos\Lab6_N3\Module.cpp(30,34): error C2059: синтаксическая ошибка: )
+  Создание кода...
